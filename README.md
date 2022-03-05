@@ -3,8 +3,6 @@ this my plugin with story in minecraft!!!
 
 i am create for best friend!!!
 
-source code old version:
-
 # how installition
 
 1. Donwload сюжет.jar and текстур пак для сюжета.zip
